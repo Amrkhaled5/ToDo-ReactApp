@@ -1,7 +1,7 @@
 # Todo App
 
-##Deployment
-Check out the deployed Todo App [](https://amrkhaled5.github.io/ToDo-ReactApp/).
+## Deployment
+Check out the deployed Todo App [here](https://amrkhaled5.github.io/ToDo-ReactApp/).
 
 ## Overview
 
