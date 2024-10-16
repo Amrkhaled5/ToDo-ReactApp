@@ -1,30 +1,23 @@
 # Todo App
 
-![Todo App Screenshot](https://via.placeholder.com/800x400?text=Todo+App+Screenshot)
-
 ## Deployment
 Check out the deployed Todo App [here](https://amrkhaled5.github.io/ToDo-ReactApp/).
 
 ## Overview
+
 This is a simple Todo App built using React. The application allows users to add and remove their tasks efficiently.
 
-![Task Management](https://via.placeholder.com/800x400?text=Task+Management)
-
 ## Features
-- **Components:** The app is structured using React components to promote reusability and maintainability.
-- **State Management:** State management is handled within the components, ensuring a smooth user experience.
-- **Interactive Forms:** Users can interact with forms to add new tasks and mark them as completed.
 
-![Interactive Forms](https://via.placeholder.com/800x400?text=Interactive+Forms)
+- **Components**: The app is structured using React components to promote reusability and maintainability.
+- **State Management**: State management is handled within the components, ensuring a smooth user experience.
+- **Interactive Forms**: Users can interact with forms to add new tasks and mark them as completed.
 
 ## Technologies Used
-- **React**
-- **JavaScript**
-- **CSS (for styling)**
 
-![Tech Stack](https://via.placeholder.com/800x400?text=Tech+Stack)
-
-
+- React
+- JavaScript
+- CSS (for styling)
 
 
 
